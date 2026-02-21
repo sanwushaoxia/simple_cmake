@@ -77,7 +77,9 @@ int main()
     // constructor_class();
     // write_shared_memory();
     // read_shared_memory();
-    generator();
+    // generator();
+    // cal_inverse_order();
+    matrix_transform();
 
     return 0;
 }

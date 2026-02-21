@@ -9,3 +9,5 @@ int socket_model();
 int list_sort();
 int weakPtr();
 int generator();
+int cal_inverse_order();
+int matrix_transform();
