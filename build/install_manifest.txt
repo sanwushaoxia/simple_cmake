@@ -1,0 +1,1 @@
+/home/zsh/code/simple_cmake/bin/obj

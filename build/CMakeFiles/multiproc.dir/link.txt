@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmultiproc.a CMakeFiles/multiproc.dir/src/multiprocessing.cpp.o
+/usr/bin/ranlib libmultiproc.a
