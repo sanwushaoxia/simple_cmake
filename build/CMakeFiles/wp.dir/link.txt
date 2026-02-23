@@ -1,2 +1,0 @@
-/usr/bin/ar qc libwp.a CMakeFiles/wp.dir/src/weakptr.cpp.o
-/usr/bin/ranlib libwp.a

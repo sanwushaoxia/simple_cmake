@@ -1,2 +1,0 @@
-/usr/bin/ar qc libgen.a CMakeFiles/gen.dir/src/generator.cpp.o
-/usr/bin/ranlib libgen.a

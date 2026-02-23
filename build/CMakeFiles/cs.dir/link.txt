@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcs.a CMakeFiles/cs.dir/src/constructor.cpp.o
-/usr/bin/ranlib libcs.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsm.a CMakeFiles/sm.dir/src/shared_memory.cpp.o
-/usr/bin/ranlib libsm.a

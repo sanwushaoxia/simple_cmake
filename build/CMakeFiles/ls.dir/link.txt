@@ -1,2 +1,0 @@
-/usr/bin/ar qc libls.a CMakeFiles/ls.dir/src/list_sort.cpp.o
-/usr/bin/ranlib libls.a

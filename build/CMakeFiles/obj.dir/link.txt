@@ -1,1 +1,0 @@
-/usr/bin/g++ CMakeFiles/obj.dir/src/main.cpp.o -o obj  libmultiproc.a libvf.a libcs.a libth.a libsm.a libso.a libls.a libwp.a libgen.a 

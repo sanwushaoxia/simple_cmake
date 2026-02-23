@@ -1,2 +1,0 @@
-/usr/bin/ar qc libth.a CMakeFiles/th.dir/src/threads.cpp.o
-/usr/bin/ranlib libth.a

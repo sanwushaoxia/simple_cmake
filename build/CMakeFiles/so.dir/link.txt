@@ -1,2 +1,0 @@
-/usr/bin/ar qc libso.a CMakeFiles/so.dir/src/socket_model.cpp.o
-/usr/bin/ranlib libso.a
