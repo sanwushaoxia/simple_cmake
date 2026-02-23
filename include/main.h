@@ -10,4 +10,4 @@ int list_sort();
 int weakPtr();
 int generator();
 int cal_inverse_order();
-int matrix_transform();
+int solve_linear_equations();

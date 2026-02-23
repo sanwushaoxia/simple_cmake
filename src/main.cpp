@@ -79,7 +79,7 @@ int main()
     // read_shared_memory();
     // generator();
     // cal_inverse_order();
-    matrix_transform();
+    solve_linear_equations();
 
     return 0;
 }
